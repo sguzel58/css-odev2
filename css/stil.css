@@ -1,0 +1,12 @@
+header {text-align: center;}
+.box1{text-align: center; background-color: rgb(172, 172, 172); } 
+.box1 > p{font-size: 14pt;} 
+[type="text"]{height: 20px;margin-bottom: 1rem; width: 40%;} /*arama input'u özellikleri*/
+.box1 > [type="button"]{width: 150px; height: 30px; margin-bottom: 10px;}
+
+.box2{background-color: aquamarine; width: 38.3%; margin-top:5px; margin-right: 5px; text-align: center; font-size:13pt;float: left; height: 100px;}
+.box2 > div, .box3 > div {padding-top: 10px;}
+.box3{background-color: rgb(110, 231, 191); width: 21%; text-align: center; float: left; margin-top:5px; margin-right: 5px; height: 100px;}
+
+.box4{background-color: rgb(80, 172, 141); width: 40%; text-align: center; float: left; margin-top:5px;}
+
